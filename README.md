@@ -1,2 +1,2 @@
-# Website-Blog
-Repo for personal website/blog
+# portfolio website
+
